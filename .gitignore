@@ -1,0 +1,19 @@
+# Python関連のファイル
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+*.log
+
+# Macのシステムファイル
+.DS_Store
+.AppleDouble
+.LSOverride
